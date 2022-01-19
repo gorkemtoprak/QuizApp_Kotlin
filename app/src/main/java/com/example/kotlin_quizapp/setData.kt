@@ -13,49 +13,49 @@ object setData {
 
         var question1 = QuestionList(
             1,
-            "what is capital of India ?",
-            "Uttar Pradesh",
-            "Madhya Pradesh",
-            "Kanpur",
-            "New Delhi",
+            "Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir?",
+            "Bursa",
+            "Ankara",
+            "İstanbul",
+            "Gaziantep",
             4
         )
         var question2 = QuestionList(
             2,
-            "Who was the first Indian woman in Space ?",
-            "Kalpana Chawla",
-            "Sunita Williams",
-            "Koneru Humpy",
-            "None of the above",
-            1
+            "2003 Yılında Euro Vizyon Şarkı Yarışmasında Ülkemizi Temsil Eden ve Yarışmada Birinci Gelen Sanatçımız Kimdir?",
+            "Grup Athena",
+            "Sertap Erener",
+            "Şebnem Paker",
+            "Ajda Pekkan",
+            2
         )
         var question3 = QuestionList(
             3,
-            "Who wrote the Indian National Anthem ?",
-            "Bakim Chandra Chatterji",
-            "Rabindranath Tagore",
-            "Swami Vivekanand",
-            "None of the above",
-            2
+            "Aşağıdakilerden Hangisi Dünya Sağlık Örgütünün Kısaltılmış İsmidir?",
+            "Uhw",
+            "Unicef",
+            "Who",
+            "Nato",
+            3
         )
         var question4 = QuestionList(
             4,
-            "Who was the first President of India ?",
-            "Abdul Kalam",
-            "Lal Bahadur Shastri",
-            "Dr. Rajendra Prasad",
-            "Zakir Hussain",
-            3
+            "Aşağıdaki Ülkelerden Hangisinin Nüfusu Daha Fazladır?",
+            "İspanya",
+            "Fransa",
+            "İngiltere",
+            "Almanya",
+            4
         )
 
         var question5 = QuestionList(
             5,
-            "Who built the Jama Masjid ?",
-            "Jahangir",
-            "Akbar",
-            "Imam Bukhari",
-            "Shah Jahan",
-            4
+            "Tsunami Felaketinde En Fazla Zarar Gören Güney Asya Ülkesi Aşağıdakilerden Hangisidir?",
+            "Endonezya",
+            "Srilanka",
+            "Tayland",
+            "Hindistan",
+            1
         )
 
         que.add(question1)
